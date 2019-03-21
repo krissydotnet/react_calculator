@@ -9,6 +9,5 @@ const App = () => {
     </React.StrictMode>
   );
 };
-
 export default App;
 //ReactDOM.render(<App />, document.getElementById("root"));

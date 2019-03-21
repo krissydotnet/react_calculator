@@ -91,11 +91,11 @@ const Calculator = () => {
 
   function handleMath(symbol) {
 
-    if (buffer == '0' && operator != null) {
+    if (buffer === '0' && operator != null) {
       setOperator(symbol);
       return;
         
-    } else if (buffer == '0' ) {
+    } else if (buffer === '0' ) {
       return;
       
     }
