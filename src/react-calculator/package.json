@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://krissydotnet.github.io/react-calculator",
+  "homepage": "https://krissydotnet.github.io/react_calculator/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",

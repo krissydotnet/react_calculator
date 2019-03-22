@@ -1,5 +1,4 @@
 import React from "react";
-//import ReactDOM from "react-dom";
 import Calculator from "./Calculator";
 
 const App = () => {
@@ -9,5 +8,4 @@ const App = () => {
     </React.StrictMode>
   );
 };
-export default App;
-//ReactDOM.render(<App />, document.getElementById("root"));
+ export default App;

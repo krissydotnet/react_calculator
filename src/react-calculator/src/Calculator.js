@@ -39,11 +39,9 @@ const Calculator = () => {
         setBuffer(buffer + value);
       }
       
-      // Handle decimal
     } 
     else if (value === "=") {
       if (operator=== null) {
-        // you need two numbers to do math
         return;
       } 
 
